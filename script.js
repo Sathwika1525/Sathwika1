@@ -11,7 +11,7 @@ window.addEventListener("scroll", () => {
 document.getElementById("contactForm").addEventListener("submit", function (e) {
     e.preventDefault();
 
-    emailjs.send("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", {
+    emailjs.send("service_knevv2h", "template_0x9cz9u", {
         from_name: document.getElementById("name").value,
         email_id: document.getElementById("email").value,
         message: document.getElementById("message").value,
@@ -25,3 +25,4 @@ document.getElementById("contactForm").addEventListener("submit", function (e) {
             "❌ Failed! Try again.";
     });
 });
+
