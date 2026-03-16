@@ -1,4 +1,4 @@
-Sathwika Yenaganti – Aspiring Software Developer
+## Sathwika Yenaganti – Aspiring Software Developer
 
 Welcome to my portfolio! I am Sathwika Yenaganti, an aspiring software developer with a strong foundation in Python, JavaScript, React.js, and SQL, and hands-on experience building full-stack web applications. I am passionate about creating responsive user interfaces, implementing RESTful APIs, working with databases, and writing clean, maintainable code.
 
@@ -6,7 +6,7 @@ I am a quick learner with strong problem-solving skills, eager to contribute to 
 
 
 
-🛠 Skills
+## 🛠 Skills
 
 Programming Languages: Python, JavaScript, SQL
 
@@ -22,8 +22,10 @@ Core Skills: Problem Solving, Debugging, Analytical Thinking
 
 
 
-💻 Projects
-Jobby App – Job Portal (Nov 2025)
+## 💻 Projects
+
+
+## Jobby App – Job Portal (Nov 2025)
 
 Developed a responsive job portal using React.js with secure JWT-based authentication and protected routes.
 
@@ -34,7 +36,7 @@ Managed loading, error, and empty states with reusable components and conditiona
 Optimized the UI for mobile and desktop to ensure a clean, accessible, and consistent experience.
 
 
-Covid-19 India Portal – Backend REST API
+## Covid-19 India Portal – Backend REST API
 
 Built secure RESTful APIs using Node.js and Express.js with JWT authentication.
 
@@ -45,8 +47,24 @@ Generated APIs to provide aggregated COVID-19 statistics at the state level.
 Applied REST standards with proper HTTP methods and consistent error handling.
 
 
+### NxtWatch – YouTube Clone
 
-📜 Certifications
+A responsive video streaming platform inspired by YouTube that allows users to browse trending videos, view video details, and switch between light and dark themes.
+
+**Tech Stack:** React.js, JavaScript, HTML5, CSS3, REST APIs, React Router
+
+**Features:**
+
+* Secure login authentication
+* Trending and gaming video sections
+* Video details page
+* Light and dark theme toggle
+* Responsive UI for mobile and desktop
+
+
+
+
+## 📜 Certifications
 
 Python Programming – Nxtwave
 
